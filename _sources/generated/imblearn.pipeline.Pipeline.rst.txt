@@ -1,5 +1,5 @@
-imblearn.pipeline.Pipeline
-==========================
+imblearn\.pipeline\.Pipeline
+============================
 
 .. currentmodule:: imblearn.pipeline
 

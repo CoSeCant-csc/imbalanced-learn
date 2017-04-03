@@ -1,5 +1,5 @@
-imblearn.datasets.make_imbalance
-================================
+imblearn\.datasets\.make\_imbalance
+===================================
 
 .. currentmodule:: imblearn.datasets
 
